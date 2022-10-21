@@ -1,5 +1,6 @@
 ### Hi there 👋
-## I'm Josphat, An Aerospace Student 
+## I'm Josphat, An Aerospace Student
+## With interest in the Latest in Tech  
 <!--
 **Coding-Josphat/Coding-Josphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
