@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C#, Python for Data Science, Aerospace Engineering and Fusion 360
 - 👯 I’m looking to collaborate on Data Science, Machine Learning and Drone projects 
 - 🤔 I’m looking for help with 
-- 💬 Ask me about data science, python, C++, Fluid Mechanics..
+- 💬 Ask me about data science, python, C++, Fluid Mechanics, Aerodynamics
 - 📫 How to reach me: mathspro32@gmail.com
 - 😄 Pronouns: it's a He
 - ⚡ Fun fact: One man's trash is another's treasure 
