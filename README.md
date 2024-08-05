@@ -1,11 +1,11 @@
 ### Hi there! 👋
 
-I'm **Josphat Wahiu**, an Aerospace Engineering student with a passion for technology and exploration. My interests span across various domains, including Aerospace, Desktop Development, Machine Learning, and Data Science.
+I'm **Josphat Wahiu**, an Aerospace Engineering student with a passion for technology and exploration. My interests span across various domains, including Aerospace, Desktop Development, Data Analysis and Software Automations(PC and Mobile).
 
 **Here's a bit more about me:**
 
-- 🌱 **Currently Learning:** I'm diving into Python for Data Science, Aerospace Engineering concepts, and mastering CAD with OnShape.
-- 👯 **Collaboration:** I'm open to collaborating on exciting projects related to Application development, Data Science, Machine Learning, and Drone projects.
+- 🌱 **Currently Learning:** I'm diving into Aerospace Engineering, Data Science and CAD with OnShape.
+- 👯 **Collaboration:** I'm open to collaborating on exciting projects related to Application development, Software Automations, Data Analysis and Engineering projects.
 - 💬 **Ask Me About:** Feel free to reach out if you have questions about data science, Python, C++, Fluid Mechanics, or Aerodynamics.
 - 📫 **Contact:** You can connect with me via email at mathspro32@gmail.com.
 - 😄 **Pronouns:** He/him
