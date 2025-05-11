@@ -29,8 +29,4 @@ I'm **Josphat Wahiu**, an Aerospace Engineering student with a passion for techn
 ![image](https://github.com/user-attachments/assets/3b7ff044-a565-43d1-a0af-da935d4a43fd)
 ![image](https://github.com/user-attachments/assets/c5b0a441-b5af-40e9-a13a-f5c20aa803bf)
 
-![image](https://github.com/user-attachments/assets/199da178-b35e-4a8a-a72a-af6412b124d6)
-![image](https://github.com/user-attachments/assets/8c68fc1e-4a1a-4d82-aa26-f4e91c9a7f7f)
-![image](https://github.com/user-attachments/assets/4964bba3-c07b-4b13-adb9-bfda4a0e1b2b)
-
 
