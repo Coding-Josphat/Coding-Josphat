@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Josphat Wahiu**, an Aerospace Engineering student with a passion for technology and exploration. My interests span across various domains, including Aerospace, Software Development, Data Analysis and Automations.
+I am an aspiring Aerospace Engineer with a passion for science, engineering, technology and exploration. My interests span across various domains, including Aerospace, Software Development, Data Analysis and Automations.
 
 **Here's a bit more about me:**
 
