@@ -17,7 +17,6 @@ I am an aspiring Aerospace Engineer with a passion for science, engineering, tec
 ![image](https://github.com/user-attachments/assets/fbd07f37-143a-4f05-ac83-3d7df0cd5992)
 ![image](https://github.com/user-attachments/assets/0f095c4e-1dd9-448d-8ed0-cf294214d40e)
 ![image](https://github.com/user-attachments/assets/2c432803-fc56-42f2-9e2b-2767ccfca774)
-![image](https://github.com/user-attachments/assets/3b7ff044-a565-43d1-a0af-da935d4a43fd)
 ![image](https://github.com/user-attachments/assets/8529081b-80e1-4e38-a68c-686d6d9b51da)
 ![image](https://github.com/user-attachments/assets/f0f918e5-89a0-412a-8ef5-10f1a0966d2e)
 
