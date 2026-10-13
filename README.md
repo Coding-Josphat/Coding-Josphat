@@ -12,30 +12,29 @@ I am an aspiring Aerospace Engineer with a passion for science, engineering, tec
 - ⚡ **Fun Fact:** Did you know that "One man's trash is another's treasure"? It's a reminder that value is subjective and can be found in unexpected places.
 
 ### Tech Stack
-<!-- IDE -->
-<!-- VS Code -->
-![image](https://github.com/user-attachments/assets/99f4f053-3f83-4151-90cb-5b360ae7aff3)
+<!-- IDE: VS Code -->
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 
-<!-- Languages -->
-<!-- C -->
-![image](https://github.com/user-attachments/assets/fbd07f37-143a-4f05-ac83-3d7df0cd5992)
-<!-- C# -->
-![image](https://github.com/user-attachments/assets/0f095c4e-1dd9-448d-8ed0-cf294214d40e)
-<!-- C++ -->
-![image](https://github.com/user-attachments/assets/2c432803-fc56-42f2-9e2b-2767ccfca774)
-<!-- MySQL -->
-![image](https://github.com/user-attachments/assets/8529081b-80e1-4e38-a68c-686d6d9b51da)
-<!-- Python -->
-![image](https://github.com/user-attachments/assets/f0f918e5-89a0-412a-8ef5-10f1a0966d2e)
+<!-- Languages: C, C#, C++, MySQL, Python -->
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
-<!-- Frameworks -->
-<!-- Qt -->
-![image](https://github.com/user-attachments/assets/6a5b0cd9-e7d1-411d-b771-4608056d68f5)
-<!-- Numpy -->
-![image](https://github.com/user-attachments/assets/63daf518-7fa5-4bf9-ad02-2c3fb3059c05)
-<!-- Matplotlib -->
-![image](https://github.com/user-attachments/assets/7708c58e-635a-4211-bea5-8067bc19c688)
-<!-- Pandas -->
-![image](https://github.com/user-attachments/assets/ff804490-0024-4c5a-b55e-6a0723e8e976)
-<!-- Scipy -->
-![image](https://github.com/user-attachments/assets/89960425-b910-4f23-9d37-54afca591ec7)
+<!-- Frameworks: Flask, Qt, Numpy, Pandas, Scipy,  -->
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)](#)
+[![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+
+
